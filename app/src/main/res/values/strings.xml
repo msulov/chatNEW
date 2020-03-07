@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Geniusje</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="hint_message_input">Введите сообщение</string>
+    <string name="app_name_description">Guide for all occasions</string>
+    <string name="hint_login">Войдите в свою учетную запись</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">To register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="dialog_message_login">Enter login details</string>
+    <string name="dialog_message_register">Enter registration information</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="dialog_error">All fields are required</string>
+    <string name="dialog_password_error">Password must be at least 6 characters long</string>
+    <string name="authorization_was_successful">Authorization was successful</string>
+    <string name="authorization">Authorization</string>
+    <string name="registration">Registration</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351770207235",
+    "firebase_url": "https://geniusjemr.firebaseio.com",
+    "project_id": "geniusjemr",
+    "storage_bucket": "geniusjemr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351770207235:android:7e5f97fb492f01b1b0da36",
+        "android_client_info": {
+          "package_name": "com.msulov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351770207235-q7jnqk7cl8d3k77uoaq3vd85thi28dbb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msulov",
+            "certificate_hash": "ed875c2f0b8b9bd7b0febc55145f1a4682ae01df"
+          }
+        },
+        {
+          "client_id": "351770207235-gbj545u1ude8tf8nk0lfrinjrg3tkegm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArNceS0-0jEzxwsHBgaq8Ptte5L5aXkeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351770207235-gbj545u1ude8tf8nk0lfrinjrg3tkegm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
